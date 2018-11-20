@@ -1,4 +1,5 @@
 {
-    "servers": ["https://raw.githubusercontent.com/mopihu/highwatch-redirect/master/"],
-    "supportUrl": ""
+	"disableAutoUpdate": false,
+	"servers": ["https://raw.githubusercontent.com/mopihu/highwatch-redirect/master/"],
+	"supportUrl": ""
 }
